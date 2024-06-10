@@ -8,7 +8,7 @@ Support Vector Machine (SVM) is a supervised machine learning algorithm commonly
 
 - **Effective in High Dimensions**: SVM is effective in cases where the number of dimensions is greater than the number of samples.
 - **Memory Efficient**: Uses a subset of training points (support vectors) in the decision function, making it memory efficient.
-- **Versatile**: Can be used for both linear and non-linear data through kernel trick.
+- **Versatile**: Can be used for both linear and non-linear data through the kernel trick.
 
 ### How SVM Works
 
